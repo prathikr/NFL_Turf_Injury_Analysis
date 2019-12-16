@@ -10,9 +10,9 @@ Potential Tasks
   - Figuring out a use for the spacial data on player movement during the plays. Maybe come up with a plotting algorithm that'll show us the path the player took to see if that had anything to do with their injury. Maybe plot the paths of players who suffered similar length injuries to look for patterns.
   - Brainstorn clustering algorithms to give us differnet sets of feature importance
   
-  Prathik's Tasks
-    - Learn how Tensorflow can be applied to this project
+Prathik's Tasks
+  - Learn how Tensorflow can be applied to this project
   
-  Gavin's Tasks
+Gavin's Tasks
   
-  Kaushik's Tasks
+Kaushik's Tasks
