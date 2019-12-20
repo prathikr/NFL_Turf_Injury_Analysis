@@ -2,6 +2,7 @@
 
 Ideas:
   - Use clustering algorithms to find similarities among athletes based on the length of their injuries (ie. feed parameters about game condition and play type and player, group on if injury was <1day, <7 days, <28 days, or <42 days - data is present in InjuryRecord.csv). Compare turf-type (in InjuryRecord.csv) along with game condition and player data (data can be found in PlayList.csv) and see how significant turf-type is. Try a bunch of models to see in which one turf-type is a high indicator of injury time. Write up analysis on theories behind this behavior.
+  - Use the spacial data images (with path) to do a image classification algorithm (maybe see if you can identify wether a play caused an injury based on the path the athlete took?)
 
 
 Potential Tasks
