@@ -5,7 +5,6 @@ Ideas:
 
 
 Potential Tasks
-  - Figuring out a use for the spacial data on player movement during the plays. Maybe come up with a plotting algorithm that'll show us the path the player took to see if that had anything to do with their injury. Maybe plot the paths of players who suffered similar length injuries to look for patterns.
   - Brainstorn clustering algorithms to give us differnet sets of feature importance
 
 Prathik's Tasks
@@ -16,3 +15,4 @@ Gavin's Tasks
   - Convert 3 files into one massive csv holding one row per entry to feed to our dataset. This will require some joining on game/play IDs.
 
 Kaushik's Tasks
+  - Figuring out a use for the spacial data on player movement during the plays. Maybe come up with a plotting algorithm that'll show us the path the player took to see if that had anything to do with their injury. Maybe plot the paths of players who suffered similar length injuries to look for patterns.
